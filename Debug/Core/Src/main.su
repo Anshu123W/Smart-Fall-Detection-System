@@ -1,0 +1,14 @@
+../Core/Src/main.c:47:6:lcd_send_cmd	32	static
+../Core/Src/main.c:63:6:lcd_send_data	32	static
+../Core/Src/main.c:79:6:lcd_clear	8	static
+../Core/Src/main.c:85:6:lcd_put_cur	24	static
+../Core/Src/main.c:98:6:lcd_init	8	static
+../Core/Src/main.c:112:6:lcd_send_string	16	static
+../Core/Src/main.c:122:6:MPU6050_Init	32	static
+../Core/Src/main.c:136:6:MPU6050_Read_Accel	32	static
+../Core/Src/main.c:151:5:main	24	static
+../Core/Src/main.c:243:6:SystemClock_Config	88	static
+../Core/Src/main.c:279:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:297:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:314:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:343:6:Error_Handler	4	static
